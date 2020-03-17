@@ -1,3 +1,9 @@
+class CreateCostumes < ActiveRecord::Migration[5.1]
+  
+end
+
+
+
 # Create a class and inherit from ActiveRecord::Migration
 
 # By convention, the class name should match the part of the
