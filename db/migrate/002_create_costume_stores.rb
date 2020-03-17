@@ -10,5 +10,6 @@ class CreateCostumeStores < ActiveRecord::Migration[5.1]
       t.datetime :closing_time
     end
   end
+end
 
 # Create your costume_stores migration here
